@@ -1,2 +1,3 @@
 # hello-world
-Ph.D clinical biochemistry
+Husam Khalil
+Ph.D. in clinical biochemistry
